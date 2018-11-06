@@ -9,7 +9,7 @@ Here is my personal collection of static binaries, copy or download the followin
 - [iperf](https://raw.githubusercontent.com/yunchih/static-binaries/master/iperf)
 - [lp](https://raw.githubusercontent.com/yunchih/static-binaries/master/lp)
 - [lpr](https://raw.githubusercontent.com/yunchih/static-binaries/master/lpr)
-- [nc](https://raw.githubusercontent.com/yunchih/static-binaries/master/nc)
+- [nc](https://raw.githubusercontent.com/yunchih/static-binaries/master/nc) (GNU Netcat Version 0.7.1)
 - [PortFusion](https://raw.githubusercontent.com/yunchih/static-binaries/master/PortFusion)
 - [strace](https://raw.githubusercontent.com/yunchih/static-binaries/master/strace)
 - [tcpdump](https://raw.githubusercontent.com/yunchih/static-binaries/master/tcpdump)
