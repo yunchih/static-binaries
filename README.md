@@ -3,7 +3,7 @@
 
 Here is my personal collection of static binaries, copy or download the following links:
 
-- [fio](https://raw.githubusercontent.com/yunchih/static-binaries/master/fio) (Version 2.17)
+- [fio](https://raw.githubusercontent.com/yunchih/static-binaries/master/fio) (Version 3.12)
 - [fping](https://raw.githubusercontent.com/yunchih/static-binaries/master/fping)
 - [iozone](https://raw.githubusercontent.com/yunchih/static-binaries/master/iozone) (Version 3.465)
 - [iperf](https://raw.githubusercontent.com/yunchih/static-binaries/master/iperf) (Version 2.0.9)
