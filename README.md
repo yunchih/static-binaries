@@ -5,7 +5,7 @@ Here is my personal collection of static binaries, copy or download the followin
 
 - [entr](https://raw.githubusercontent.com/yunchih/static-binaries/master/entr) (Version 3.9)
 - [fio](https://raw.githubusercontent.com/yunchih/static-binaries/master/fio) (Version 3.12)
-- [fping](https://raw.githubusercontent.com/yunchih/static-binaries/master/fping)
+- [fping](https://raw.githubusercontent.com/yunchih/static-binaries/master/fping) (Version 4.1)
 - [iozone](https://raw.githubusercontent.com/yunchih/static-binaries/master/iozone) (Version 3.465)
 - [iperf](https://raw.githubusercontent.com/yunchih/static-binaries/master/iperf) (Version 2.0.9)
 - [lp](https://raw.githubusercontent.com/yunchih/static-binaries/master/lp)
