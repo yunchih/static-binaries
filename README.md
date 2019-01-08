@@ -3,6 +3,7 @@
 
 Here is my personal collection of static binaries, copy or download the following links:
 
+- [entr](https://raw.githubusercontent.com/yunchih/static-binaries/master/entr) (Version 3.9)
 - [fio](https://raw.githubusercontent.com/yunchih/static-binaries/master/fio) (Version 3.12)
 - [fping](https://raw.githubusercontent.com/yunchih/static-binaries/master/fping)
 - [iozone](https://raw.githubusercontent.com/yunchih/static-binaries/master/iozone) (Version 3.465)
