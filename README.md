@@ -16,7 +16,7 @@ Here is my personal collection of static binaries, copy or download the followin
 - [strace](https://raw.githubusercontent.com/yunchih/static-binaries/master/strace) (Version 5.6)
 - [tcpdump](https://raw.githubusercontent.com/yunchih/static-binaries/master/tcpdump) (Version 4.9.0)
 - [tftp](https://raw.githubusercontent.com/yunchih/static-binaries/master/tftp) (tftp-hpa Version 5.2)
-- [wget](https://raw.githubusercontent.com/yunchih/static-binaries/master/wget) (Version 1.19)
+- [wget](https://raw.githubusercontent.com/yunchih/static-binaries/master/wget) (Version 1.20.1, **with SSL**)
 
 ## Example usage
 
